@@ -1,4 +1,8 @@
 ### Hi there 👋
+- Im Tony Cerqui
+- [LinkedIn](https://www.linkedin.com/in/anthonycerqui/)
+- [B&T Digital](https://www.btdigital.com.au)
+- [Website](https://tony-cerqui.webnode.page)
 
 <!--
 **littletuna4/littletuna4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
