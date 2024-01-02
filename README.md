@@ -4,7 +4,7 @@ I am a final year Chemical Engineering student with a strong focus on Business I
 
 ## Professional Highlights
 - Managing Partner at B&T Digital, where I offer tech support and digital systems development for small to medium businesses, alongside data analysis services.
-- Experience in quantitative market research, website development, and graphic design.
+- Some experience in website development, market research and graphic design.
 - Worked as an Undergraduate Process Engineer at Rio Tinto, focusing on data analytics projects in process engineering.
 - Engaged in various roles across industries, including consulting, construction, mining, software, and manufacturing.
 
