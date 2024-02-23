@@ -1,6 +1,6 @@
 # Tony Cerqui
 
-I am a final year Chemical Engineering student with a strong focus on Business Information Systems at the University of Queensland. My expertise lies in data-driven solutions, leveraging my background in engineering and business to develop innovative technologies.
+I am a final year Chemical Engineering student with a strong focus on Business Information Systems at the University of Queensland. My expertise lies in data-driven solutions, leveraging my background in engineering and business to develop productive technologies.
 
 ## Professional Highlights
 - Managing Partner at B&T Digital, where I offer tech support and digital systems development for small to medium businesses, alongside data analysis services.
