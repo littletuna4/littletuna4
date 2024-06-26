@@ -8,6 +8,9 @@ I am a final semester Chemical Engineering student and Business Information Syst
 - Worked as an Undergraduate Process Engineer at Rio Tinto, focusing on data analytics projects in process engineering.
 - Engaged in various roles across industries, including consulting, construction, mining, software, and manufacturing.
 
+## Alt Accounts:
+See [@anthonycerqui-riotinto](https://github.com/anthonycerqui-riotinto)
+
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anthonycerqui/)
 - [B&T Digital](https://www.btdigital.com.au)
