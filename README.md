@@ -1,6 +1,6 @@
 # Tony Cerqui
 
-I am a final semester Chemical Engineering student and Business Information Systems at the University of Queensland.
+I am a Chemical Engineering and Business Information Systems graduate from the University of Queensland.
 
 ## Professional Highlights
 - Managing Partner at B&T Digital, where I offer tech support and digital systems development for small to medium businesses, alongside data analysis services.
