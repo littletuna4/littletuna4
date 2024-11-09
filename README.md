@@ -5,7 +5,7 @@ I am a Chemical Engineering and Business Information Systems graduate from the U
 ## Professional Highlights
 - Managing Partner at B&T Digital, where I offer tech support and digital systems development for small to medium businesses, alongside data analysis services.
 - Some experience in website development, market research and graphic design.
-- Worked as an Undergraduate Process Engineer at Rio Tinto, focusing on data analytics projects in process engineering.
+- Work as a Process Engineer at Rio Tinto, focusing on data analytics projects in process engineering.
 - Engaged in various roles across industries, including consulting, construction, mining, software, and manufacturing.
 
 ## Alt Accounts:
