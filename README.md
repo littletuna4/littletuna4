@@ -16,7 +16,7 @@ See [@anthonycerqui-riotinto](https://github.com/anthonycerqui-riotinto)
 - [B&T Digital](https://www.btdigital.com.au)
 - [Airudite](https://airudite.btdigital.com.au)
 - [Personal Website](https://tony-cerqui.webnode.page)
-- [Silly Site CHG](https/www.chg.monsteraa.com)
+- [CHG _(Silly RedwoodJS project)_](https/www.chg.monsteraa.com)
 
 
 <!--
